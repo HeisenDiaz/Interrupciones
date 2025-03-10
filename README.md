@@ -67,3 +67,8 @@ bucles de monitoreo, lo que optimiza el uso de los recursos del sistema.
 prioridades y ejecutando las tareas críticas sin afectar el flujo principal del programa
 - Un diseño adecuado de interrupciones evita la sobrecarga del procesador y bloqueos en la ejecución del código principal, asegurando un flujo continuo en la operación del sistema.
 
+## 10. Autores 
+
+ ### Luis Fernando Pulido Salazar - 76257
+ ### Heisen Jawer Diaz Ascencio - 137604
+
