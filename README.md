@@ -59,3 +59,6 @@
 - La desición depende principalmente de la cantidad de tareas que se tengan que ejecutar en el programa principal
 - También del problema que se esté solucionando
 
+ ## 9. Conclusiones
+ 
+
