@@ -59,6 +59,11 @@
 - La desición depende principalmente de la cantidad de tareas que se tengan que ejecutar en el programa principal
 - También del problema que se esté solucionando
 
- ## 9. Conclusiones
+## 9. Conclusiones
  
+- Las interrupciones permiten a los microcontroladores responder a eventos en tiempo real sin la necesidad de estar ejecutando constantemente 
+bucles de monitoreo, lo que optimiza el uso de los recursos del sistema.
+- Gracias a las interrupciones, los microcontroladores pueden gestionar múltiples eventos de hardware y software de manera eficiente, asignando
+prioridades y ejecutando las tareas críticas sin afectar el flujo principal del programa
+- Un diseño adecuado de interrupciones evita la sobrecarga del procesador y bloqueos en la ejecución del código principal, asegurando un flujo continuo en la operación del sistema.
 
